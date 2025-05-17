@@ -1,8 +1,3 @@
-Based on your description, visible code, project structure, and terminal outputs, here is a clean and complete `README.md` tailored for your **Traffic Flow Optimization** project:
-
----
-
-````markdown
 # 🚦 Traffic Flow Optimization
 
 A real-time traffic monitoring and optimization system powered by computer vision and intelligent lane analysis. This project detects vehicles in a video feed, counts lane-specific traffic, and applies optimization algorithms to recommend better traffic light timings—ideal for smart city applications and transport research.
