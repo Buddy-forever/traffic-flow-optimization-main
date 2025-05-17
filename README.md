@@ -14,8 +14,6 @@ The main goal of this project is to **simulate and optimize urban traffic flow**
 
 ---
 
----
-
 ## 🗂️ Project Structure
 
 ```bash
